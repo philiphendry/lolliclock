@@ -1,0 +1,9 @@
+{
+  "name": "lolliclock",
+  "version": "1.0.0",
+  "description": "Forked version of https://github.com/mattkrick/lolliclock",
+  "main": "lolliclock.js",
+  "repository": "https://github.com/philiphendry/lolliclock",
+  "author": "Matt Krick",
+  "license": "MIT"
+}
